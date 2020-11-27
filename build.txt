@@ -1,0 +1,3 @@
+displayName = Stardew Valley Iridium Tools
+author = TimelessBirch
+version = 0.1

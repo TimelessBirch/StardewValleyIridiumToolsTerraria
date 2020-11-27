@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOPQ+fmIqv/Olzho656cTjPRhNz0nxALJ+BOLwUaQJ5Ug55Q4xcTyNSOq1gi9QD7zt5wCD68y4Gyi7i68Qmpgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\StardewValleyIridiumTools\\StardewValleyIridiumTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
