@@ -7,7 +7,6 @@ namespace StardewValleyIridiumTools.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			// DisplayName.SetDefault("IridiumSword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
 			Tooltip.SetDefault("It's the remains of an ancient sword. Most of the blade has turned to rust, but the hilt is very finely crafted.");
 		}
 
