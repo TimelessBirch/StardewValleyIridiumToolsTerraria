@@ -16,8 +16,6 @@ namespace StardewValleyIridiumTools.Tiles
             Main.tileBlockLight[Type] = false; // Emits Light
 
             drop = mod.ItemType("IridiumBarPlaceable"); // What item drops after destorying the tile
-            //ModTranslation name = CreateMapEntryName();
-            //name.SetDefault("Tutorial Ore");
             AddMapEntry(new Color(129, 73, 209)); // Colour of Tile on Map
         }
 
