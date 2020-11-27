@@ -15,7 +15,6 @@ namespace StardewValleyIridiumTools.Items.Placeable
 
 		public override void SetDefaults()
 		{
-			//item.name = "Iridium Ore";
 			item.useStyle = ItemUseStyleID.SwingThrow;
 			item.useTurn = true;
 			item.useAnimation = 15;
