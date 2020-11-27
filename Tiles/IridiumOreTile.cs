@@ -16,8 +16,6 @@ namespace StardewValleyIridiumTools.Tiles
             Main.tileBlockLight[Type] = false; // Emits Light
 
             drop = mod.ItemType("IridiumOrePlaceable"); // What item drops after destorying the tile
-            //ModTranslation name = CreateMapEntryName();
-            //name.SetDefault("Tutorial Ore");
             AddMapEntry(new Color(101, 15, 214)); // Colour of Tile on Map
             minPick = 40; // What power pick minimum is needed to mine this block.
         }
